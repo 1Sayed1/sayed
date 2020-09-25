@@ -1,1 +1,14 @@
-# sayed
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <title>My Web Page</title>
+  <link rel="icon" href="2.png">
+  <script src="https://kit.fontawesome.com/4f2737e0bf.js" crossorigin="anonymous"></script>
+    <body>
+      <h1>My First Web Page</h1>
+      <img src="sayed/1.jpg" alt="world map"width="400px">
+      <p style = "font-family:georgia,garamond;font-size:27px;font-style:;">
+         <h2>This is my first web page ever</h2>
+      </p>
+    </body>
+</html>
